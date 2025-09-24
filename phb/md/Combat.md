@@ -351,30 +351,26 @@ Whenever you take an action that enters you into stealth, whether that is the hi
 
 ## **Stealth Levels**
 
-There are three levels of stealth, corresponding to different degrees of being hidden. Each level has limitations on what can be done in it; for example, in Level 2 and Level 3 Stealth, you cannot move. Thus, if you were at Stealth 3, and chose to spend an action moving, you would immediately be dropped to Stealth 1\.
+There are three levels of stealth, corresponding to different degrees of being hidden. Each level has limitations on what can be done in it; for example, in Level 2 and Level 3 Stealth, you cannot move. Thus, if you were at Stealth 3, and chose to spend an action moving, you would immediately be dropped to Stealth 1.
+
+Any basic action that only affects you such as Block, Search, or using a consumable may be used without breaking stealth. You may use any jutsu with the Self tag or Genjutsu technique without breaking stealth. Any Ranged Taijutsu may be used but this reduces your Stealth TN by 5.
+
 
 ### **Stealth, Level 1**
 
-Stealth 1 is as poorly concealed as you can be while still being unseen by your enemies. Your Stealth TN has no bonus at this rank. You may move and perform surprise attacks, as well as using items and performing Handseals you can also freely perform any Genjutsu while being in stealth. Uchihas cannot however use the instant Genjutsu because it requires the opponent to perceive your gaze
+Stealth 1 is as poorly concealed as you can be while still being unseen by your enemies. Your Stealth TN has no bonus at this rank.  
 
- 
-
-Actions that break this level of stealth   
-\-Use of Ninjutsu/Taijutsu techniques that aren't self buffing   
-\-Use of surprise attacks and sneak attacks
+Actions that break this level of stealth:  
+-Use of surprise attacks and sneak attacks
 
  
 
 ### **Stealth, Level 2**
 
-Stealth 2 corresponds to being fairly well-hidden, having taken the time to adjust yourself and your hiding spot as necessary--you're not sticking your feet out past the edge of the rock you're hiding behind, for example. From Stealth 2 you may perform surprise attacks, use items, perform Handseals, and prepare and perform sneak attacks. At this level of stealth, your Stealth TN has a \+5 bonus, plus you can freely perform any Genjutsu while being in stealth. Uchihas cannot however use the instant Genjutsu because it requires the opponent to perceive your gaze
+Stealth 2 corresponds to being fairly well-hidden, having taken the time to adjust yourself and your hiding spot as necessary--you're not sticking your feet out past the edge of the rock you're hiding behind, for example. From Stealth 2, your Stealth TN has a \+5 bonus.  
 
- 
-
-Actions that break this level of stealth   
-\-Use of Ninjutsu/Taijutsu techniques that aren't self buffing   
-\-Use of surprise attacks and sneak attacks  
-\-Taking the move action reduces your Stealth level to 1 
+Actions that reduce this level of stealth:  
+-Taking the move action reduces your Stealth level to 1 
 
  
 
@@ -382,15 +378,9 @@ Actions that break this level of stealth
 
 Stealth 3 is as well-hidden as you can be. You are somehow camouflaged, blending into your environment excellently. You may not move or attack, but your Stealth TN has a \+15 bonus.
 
-Animals are natural masters of stealth.
-
- 
-
-Actions that break this level of stealth   
-\-Use of Ninjutsu/Taijutsu techniques that aren't self buffing   
-\-Use of surprise attacks and sneak attacks  
-\-Taking the move action reduces your Stealth level to 1 
-
+Actions that break this level of stealth:  
+-Any action even those explicitly allowed while in stealth reduces you to Stealth level 2   
+-Taking the move action reduces your Stealth level to 1 
  
 
 ## **Searching**
